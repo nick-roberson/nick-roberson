@@ -1,5 +1,6 @@
 ### Software + Data Engineer
-[](https://komarev.com/ghpvc/?username=nick-roberson)
+
+![](https://komarev.com/ghpvc/?username=nick-roberson)
 
 Top Repositories:
 - [FastAPI Gen](https://github.com/nick-roberson/fastapi-gen): Create FastAPI Applications + React Apps with a Single Command
