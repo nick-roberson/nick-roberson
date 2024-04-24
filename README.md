@@ -3,8 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-roberson/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://nick-roberson.github.io/)
 
-![](https://komarev.com/ghpvc/?username=nick-roberson)
-
 **Active Repositories:**
 - [FastAPI Gen](https://github.com/nick-roberson/fastapi-gen): Create a FastAPI backend + React / Typescript frontend with a single command!
 - [Comp Blocks (In Dev)](https://github.com/nick-roberson/comp-blocks): Organized Computational Blocks Framework for Python: Organize DataFrame transformations, ML models, and more in a single, easy-to-use framework.
