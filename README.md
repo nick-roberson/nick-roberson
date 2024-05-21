@@ -11,4 +11,5 @@
 - [Atomwise](https://atomwise.com/)
 - [Plenty](https://www.plenty.ag/)
 
-Previous Account: [nickroberson](https://github.com/nickroberson)
+**Previous Account:**
+- [nickroberson](https://github.com/nickroberson)
