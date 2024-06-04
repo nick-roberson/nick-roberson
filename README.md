@@ -8,9 +8,9 @@
 - [Comp Blocks (In Dev)](https://github.com/nick-roberson/comp-blocks): Organized Computational Blocks Framework for Python: Organize DataFrame transformations, ML models, and more in a single, easy-to-use framework.
 
 **Companies:**
-- (current) [Palantir](https://www.palantir.com/)
-- [Atomwise](https://atomwise.com/)
-- [Plenty](https://www.plenty.ag/)
+- 2024 - curr: [Palantir](https://www.palantir.com/)
+- 2021 - 2024: [Atomwise](https://atomwise.com/)
+- 2018 - 2021: [Plenty](https://www.plenty.ag/)
 
 **Previous Account:**
 - [nickroberson](https://github.com/nickroberson)
