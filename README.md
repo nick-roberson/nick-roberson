@@ -7,10 +7,8 @@
 - [FastAPI Gen](https://github.com/nick-roberson/fastapi-gen): Create and manage a FastAPI App + React / Typescript frontend all through the CLI.
 - [Comp Blocks (In Dev)](https://github.com/nick-roberson/comp-blocks): Organized Computational Blocks Framework for Python: Organize DataFrame transformations, ML models, and more in a single, easy-to-use framework.
 
-**Current Company:**
-- [Palantir](https://www.palantir.com/)
-
-**Previous Companies:**
+**Companies:**
+- (current) [Palantir](https://www.palantir.com/)
 - [Atomwise](https://atomwise.com/)
 - [Plenty](https://www.plenty.ag/)
 
